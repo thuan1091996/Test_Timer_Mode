@@ -1,0 +1,22 @@
+RAM Allocation [bytes]
+Variable                                                                          Address   Size
+------------------------------------------------------------------------------------------------
+LoadA                                                                             0x0160       4
+LoadB                                                                             0x0164       4
+Duty                                                                              0x0168       4
+
+EEPROM Allocation [bytes]
+Variable                                                                          Address   Size
+------------------------------------------------------------------------------------------------
+
+Register Allocation
+Variable                                                                          Register  Size
+------------------------------------------------------------------------------------------------
+
+FLASH Allocation [words]
+Function                                                                          Address   Size
+------------------------------------------------------------------------------------------------
+timer1_ovf_isr                                                                    0x0002D     14
+timer1_compa_isr                                                                  0x0003B      2
+timer1_compb_isr                                                                  0x0003D      2
+main                                                                              0x0003F    103

@@ -1,0 +1,10 @@
+VERSION:3 SOURCE_TIMESTAMP:4D1E5C8B
+NODE:I LEVEL:0 LINE:24 "C:\cvavr\inc\mega8.h"
+NODE:M LEVEL:0 LINE:25 "LED"
+NODE:V LEVEL:0 LINE:26 "LoadA -> RAM:????"
+NODE:V LEVEL:0 LINE:27 "LoadB -> RAM:????"
+NODE:V LEVEL:0 LINE:28 "Duty -> RAM:????"
+NODE:F LEVEL:0 LINE:30 "timer1_ovf_isr(void)"
+NODE:F LEVEL:0 LINE:39 "timer1_compa_isr(void)"
+NODE:F LEVEL:0 LINE:44 "timer1_compb_isr(void)"
+NODE:F LEVEL:0 LINE:48 "main(void)"
